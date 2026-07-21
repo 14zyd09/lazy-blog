@@ -2,3 +2,6 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'First experience with Hugo'
 theme = 'hugo-ficurinia'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
