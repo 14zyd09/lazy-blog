@@ -1,0 +1,13 @@
+
+{
+    
+    
+    
+    
+        
+        
+        
+    
+    "pages": [{"date":"2026-07-21","image":"","imageAlt":"","link":"http://localhost:1313/posts/first-post/","summary":"\u003ch2 id=\"this-is-my-first-post-how-exhilarating\"\u003eThis is my first post. How exhilarating.\u003c/h2\u003e\n\u003cp\u003eThis is one of many \u003cstrong\u003ebold\u003c/strong\u003e statements that will be put here.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eand emphasized not less often\u003c/em\u003e\u003c/p\u003e\n\u003cdiv class=\"highlight\"\u003e\u003cpre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;\"\u003e\u003ccode class=\"language-C\" data-lang=\"C\"\u003e\u003cspan style=\"display:flex;\"\u003e\u003cspan\u003e\u003cspan style=\"color:#66d9ef\"\u003eint\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003emain\u003c/span\u003e() {\n\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"display:flex;\"\u003e\u003cspan\u003e    \u003cspan style=\"color:#a6e22e\"\u003eprintf\u003c/span\u003e(\u003cspan style=\"color:#e6db74\"\u003e\u0026#34;Hello Hugo!\u0026#34;\u003c/span\u003e);\n\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"display:flex;\"\u003e\u003cspan\u003e    \u003cspan style=\"color:#66d9ef\"\u003ereturn\u003c/span\u003e \u003cspan style=\"color:#ae81ff\"\u003e0\u003c/span\u003e;\n\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"display:flex;\"\u003e\u003cspan\u003e}\n\u003c/span\u003e\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e","tags":[],"text":"this is my first post. how exhilarating. this is one of many bold statements that will be put here.\nand emphasized not less often\nint main() { printf(\u0026#34;hello hugo!\u0026#34;); return 0; } ","title":"First Post"}]
+}
+
